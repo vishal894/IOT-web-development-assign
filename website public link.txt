@@ -1,0 +1,7 @@
+1.meditation website-->https://mediation-website.herokuapp.com/
+
+
+2--->dashboard website----> https://coding-snow.herokuapp.com/
+
+3-->.Inventry-managment-system--->Their is some problem come to deploy on cloud platform .I don't know what is  exact problem .it work fine on localhost server.
+I send the whole code in roper format.if you say i send demo vedio
